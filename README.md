@@ -2,6 +2,6 @@
 Group 2's solution to the Page Rank assignment of Rutgers CS:543 (Massive Data Storage and Retrieval) course.
 
 Authors:
-Neil Pillai
+Neil Pillai <\n>
 Samyuktha Gopalsamy
 Tanvi Pradhan
